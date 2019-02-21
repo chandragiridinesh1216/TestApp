@@ -1,0 +1,13 @@
+body {
+  background-color: #3E3E3F;
+  color: #cdcdcd;
+  padding:10px;
+}
+a{
+    color:#51B8D2;
+    text-decoration:none;
+}
+li{
+    list-style-type: lower-alpha;
+    color:#dcdcdc;
+}
